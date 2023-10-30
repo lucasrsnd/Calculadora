@@ -16,6 +16,6 @@ Calculator offers a variety of powerful features to support accurate and fast ca
 ![calculator](https://github.com/lucasrsnd/Calculadora/assets/144551298/be85325f-e5c0-4268-a0f0-03969c560f7c)
 
 ## Languages ​​Used
-• Html
-• Css
-• JavaScript 
+• HTML
+• CSS
+• JAVASCRIPT
