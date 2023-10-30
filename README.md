@@ -1,8 +1,8 @@
-Calculator
+##Calculator
 
 <p>Calculator is a versatile and easy-to-use tool designed to simplify complex and routine calculations. Equipped with an intuitive and easy-to-use interface, this calculator offers a variety of mathematical functions. Additionally, Smart Calculator is compatible with mobile and desktop devices, ensuring access anytime, anywhere. Thanks to its accuracy and reliability, the Smart Calculator is the ideal tool for students, professionals and math enthusiasts.</p>
 
-Project description
+##Project description
 
 Calculator offers a variety of powerful features to support accurate and fast calculations. Equipped with basic calculations including addition, subtraction, multiplication and division, this calculator is ideal for meeting everyday computing needs. Additionally, it has the following features:
 
@@ -12,9 +12,9 @@ Calculator offers a variety of powerful features to support accurate and fast ca
 
 • With an intuitive and easy-to-use interface, this calculator guarantees a pleasant and productive user experience for users of all levels. Whether for simple day-to-day tasks or more complex calculations, the Smart Calculator is a reliable and practical tool for various applications.
 
-Layout
+##Layout
 
-Languages ​​Used
+##Languages ​​Used
 • Html
 • Css
 • JavaScript 
